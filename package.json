@@ -1,0 +1,21 @@
+{
+  "name": "cosmic-cliffs-vscode",
+  "displayName": "Cosmic Cliffs for VSCode",
+  "description": "A VSCode color theme inspired by the JWST \"Cosmic Cliffs\" image",
+  "version": "0.2.0",
+  "engines": {
+    "vscode": "^1.115.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cosmic Cliffs",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cosmic Cliffs-color-theme.json"
+      }
+    ]
+  }
+}
