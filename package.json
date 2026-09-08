@@ -6,6 +6,10 @@
   "engines": {
     "vscode": "^1.115.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArkSum/cosmic-cliffs-vscode"
+  },
   "categories": [
     "Themes"
   ],
