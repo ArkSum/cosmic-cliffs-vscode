@@ -40,11 +40,12 @@
         "keybindingLabel.background": "#1c1431",
         "editorWidget.border": "#1c1431",
         "debugToolBar.background": "#1c1431",
+        "editorRuler.foreground": "#31264d",
         "tab.border": "#31264d",
         "editorGroupHeader.tabsBorder": "#31264d",
         "selection.background": "#31264d",
         "editorIndentGuide.background1": "#31264d",
-        "editor.foldBackground": "#31264d40",
+        "editor.foldBackground1": "#31264d",
         "statusBar.border": "#31264d",
         "statusBar.background": "#31264d",
         "welcomePage.tileBackground": "#31264d",
@@ -179,7 +180,7 @@
         "terminal.ansiBrightCyan": "#7ab4ff",
         "terminal.ansiBrightWhite": "#ffffff",
         "debugTokenExpression.name": "#c4a2e6",
-        "debugTokenExpression.value": "#df9c5e80",
+        "debugTokenExpression.value": "#6f6098",
         "debugTokenExpression.string": "#daa76e",
         "debugTokenExpression.number": "#90e4e4",
         "debugTokenExpression.boolean": "#8e4ad2",
@@ -204,7 +205,8 @@
                 "string.quoted.docstring.multi.python"
             ],
             "settings": {
-                "foreground": "#df9c5e80"
+                "foreground": "#6f6098",
+                "fontStyle": "bold"
             }
         },
         {
